@@ -1,0 +1,16 @@
+.container-vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-horizontal {
+  display: flex;
+  flex-direction: row;
+}
+
+.text_box {
+  grid-row: 2 / span 3;
+  background-color: #fff;
+  border-radius: 1rem;
+  overflow: hidden;
+}

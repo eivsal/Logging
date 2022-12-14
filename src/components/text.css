@@ -1,0 +1,9 @@
+.text_field {
+    width: 14rem;
+    height: 16rem;
+    bottom: 0;
+    right: 0;
+    margin: 1rem;
+    background: white;
+    border: 2px solid black;
+}

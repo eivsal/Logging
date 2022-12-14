@@ -1,0 +1,19 @@
+.start_button {
+  width: 14rem;
+  height: 7rem;
+  text-align: center;
+  bottom: 0;
+  right: 0;
+  margin: 1rem;
+  border: 2px solid black;
+}
+.start_button:focus {
+  background: lightgray;
+}
+
+.start_text {
+  font-size: 3rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: rgb(0, 0, 0);
+}
